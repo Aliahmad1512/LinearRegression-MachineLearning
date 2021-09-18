@@ -2,6 +2,7 @@
 
 Linear Regression is a Machine Learning algorithm that is used to predict the value of a quantitative variable.
 Simple linear regression is actually a basic regression analysis where we have just 2 variables, an independent variable and a dependent variable. Based on the changes made to the independent variable, we predict the value of the dependent variable.
+
 From a machine learning context, it is the simplest model one can try out on your data. If you have a hunch that the data follows a straight line trend, linear regression can give you quick and reasonably accurate results.
 Visually, linear regression is a process of finding a flat shape that best fits in the cloud of observed data. The shape could be a point on the axis, a line in two dimensions, a plane in three dimensions, or a hyperplane in higher dimensions. Using linear regression to calculate a single point on an axis that is a best fit is the same as calculating the average.
 
