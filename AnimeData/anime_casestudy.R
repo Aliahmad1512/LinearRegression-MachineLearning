@@ -235,7 +235,7 @@ plot(anime[,ContinuousCols],col='blue')
 # correlation for checking continuous variable 
 # whether it is a good or bad predictor
 
-ContinuousCols=c("rating","eps","watched","watching","wantWatch","dropped","votes")
+ContinuousCols<-c("rating","eps","watched","watching","wantWatch","dropped","votes")
 
 library(corrplot)
 corrplot(cor(anime[,ContinuousCols]))
