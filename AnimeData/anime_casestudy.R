@@ -218,7 +218,7 @@ for(box_cols in ColsForBar){
 }
 
 # Continuous Vs Continuous --- Scatter plot
-ContinuousCols=c("rating","eps","watched","watching","wantWatch","dropped","rating",	"votes")
+ContinuousCols <- c("rating","eps","watched","watching","wantWatch","dropped","rating",	"votes")
 
 par(mfrow=c(1,1))
 
